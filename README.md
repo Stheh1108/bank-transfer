@@ -1,0 +1,1 @@
+This application imitates a netbanking application where you can open an account, withdraw and deposit money to your account or evn transfer funds between two banks. To use this application, you'll need to setup a MySQL Database as this application uses Java DataBase Connectivity to connect the MySQL database to the application.
